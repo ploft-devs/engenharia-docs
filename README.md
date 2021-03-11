@@ -1,1 +1,1 @@
-# Engenharia de Computação
+# Engenharia elétrica
